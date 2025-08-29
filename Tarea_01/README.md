@@ -6,6 +6,8 @@ La webstory *“The United States of Abortion Mazes”*, publicada por *The Pudd
 
 En primer lugar, comienza con una introducción que plantea el laberinto como símbolo de las dificultades para acceder al aborto en Estados Unidos. Luego, continúa con el despliegue de cada estado convertido en un laberinto propio y, a lo largo de la página, intercala diferentes relatos de personajes ficticios inspirados en testimonios reales. Estas voces personales permiten aterrizar los datos, generando así un **vínculo emocional** con el usuario. Finalmente, el relato culmina con una sección metodológica en la que se explica con claridad de dónde provienen los datos, cómo fueron ponderados y de qué manera se tradujeron en la dificultad de los laberintos. 
 
+![alt text](/Tarea_01/assets/historias.png)
+
 ### Visualización e interacción
 
 Las visualizaciones (en este caso, los laberintos) no son decorativas, sino un recurso narrativo que materializa la complejidad de los trámites, restricciones y obstáculos legales. En lugar de gráficos convencionales, el usuario se enfrenta a laberintos interactivos cuyo diseño refleja la severidad de cada marco normativo; los estados más restrictivos presentan recorridos más largos y enredados, mientras que los más permisivos tienen caminos más simples. Esta elección transforma un conjunto de indicadores en una **experiencia didáctica y comprensible** para el lector. La sección metodológica introduce un contraste interesante, pues opta por explicaciones textuales claras y esquemáticas, que equilibran la densidad técnica con accesibilidad. 
